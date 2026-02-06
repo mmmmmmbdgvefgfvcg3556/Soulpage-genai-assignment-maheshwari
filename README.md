@@ -1,5 +1,3 @@
-# Soulpage-genai-assignment-maheshwari
-Conversational knowledge bot using LangChain, tools, and memory
 # Conversational Knowledge Bot
 
 This project implements a conversational AI chatbot using LangChain.
@@ -20,4 +18,8 @@ and maintain conversation memory.
 ```bash
 pip install -r requirements.txt
 python app.py
+
+# Soulpage-genai-assignment-maheshwari
+Conversational knowledge bot using LangChain, tools, and memory
+
 
